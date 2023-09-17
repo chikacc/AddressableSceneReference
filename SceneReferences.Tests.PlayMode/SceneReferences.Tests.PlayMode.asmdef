@@ -1,0 +1,18 @@
+﻿{
+  "name": "SceneReferences.Tests.PlayMode",
+  "rootNamespace": "SceneReferences.Tests",
+  "references": [
+    "AddressablesExtensions",
+    "EditorTools",
+    "UniTask",
+    "UniTask.Addressables",
+    "Unity.Addressables",
+    "Unity.Addressables.Editor",
+    "Unity.ResourceManager"
+  ],
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "FluentAssertions.dll"
+  ],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

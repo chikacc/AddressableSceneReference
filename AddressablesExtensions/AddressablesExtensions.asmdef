@@ -1,0 +1,8 @@
+﻿{
+  "name": "AddressablesExtensions",
+  "rootNamespace": "AddressablesExtensions",
+  "references": [
+    "Unity.Addressables",
+    "Unity.ResourceManager"
+  ]
+}
